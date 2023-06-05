@@ -20,7 +20,7 @@ timezone: Asia/Tokyo
 
 title: Gaurish Gangwar # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: C++ | Python | Full Stack Development # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -80,7 +80,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://media.licdn.com/dms/image/D5603AQGgv06bFfcS3Q/profile-displayphoto-shrink_800_800/0/1666608777513?e=1691625600&v=beta&t=v3fkZCk8_PJ7n2-3Q9ObXnntK0w6ek6bE4eob8TGcLs
 
 # boolean type, the global switch for TOC in posts.
 toc: true
