@@ -13,5 +13,5 @@ I am passionate about using technology to solve real-world problems. I am a high
 
 I am looking for a challenging and rewarding software development position where I can use my skills and experience to make a positive impact.
 
-> You can have a look at my [Resume](/resume) to get a complete picture of my skillset and experience.
+> You can have a look at my [Resume](resume) to get a complete picture of my skillset and experience.
 {: .prompt-tip }
