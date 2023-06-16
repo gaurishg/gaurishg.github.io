@@ -20,7 +20,7 @@ timezone: Asia/Tokyo
 
 title: Gaurish Gangwar # the main title
 
-tagline: C++ | Python | Full Stack Development # it will display as the sub-title
+tagline: C++ | Python | Robotics | Full Stack Development # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
